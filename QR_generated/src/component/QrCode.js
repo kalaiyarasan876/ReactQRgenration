@@ -78,7 +78,7 @@ export default function QrCode() {
       </div>
      
       <footer className="bg-gray-100 py-4 mt-10">
-  <p className="text-center text-sm text-gray-600 bg-gray-100">
+  {/* <p className="text-center text-sm text-gray-600 bg-gray-100">
     Developed by{" "}
     <a
       href="https://portfoliokalai.netlify.app/"
@@ -88,7 +88,7 @@ export default function QrCode() {
     >
       Kalai
     </a>
-  </p>
+  </p> */}
 </footer>
 
      
